@@ -9,4 +9,4 @@ on:
 
       steps:
         - name: Say hello
-          run: echo "hello world"
+          run: echo "hello worldgit"
